@@ -4,6 +4,13 @@ FIXME: description
 
 ## Developing
 
+### Site
+
+https://clojure.org/guides/destructuring
+
+https://circleci.com/blog/build-a-clojure-web-app-using-duct/
+
+
 ### Setup
 
 When you first clone this repository, run:
